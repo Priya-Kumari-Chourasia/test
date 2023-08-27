@@ -1,5 +1,0 @@
-{{#user}}
-Name: Priya Kumari
-Skills: HTML, CSS, JS, React.js, NodeJs, MongoDB
-Email: priya417789@gmail.com
-{{/user}}
